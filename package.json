@@ -1,0 +1,19 @@
+{
+  "name": "llamasharp-unity",
+  "version": "1.0.1",
+  "displayName": "llamasharp-unity",
+  "description": "LLamaSharp for unity",
+  "author": {
+    "name": "SciSharp",
+    "url": "https://github.com/SciSharp/LLamaSharp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xue-fei/llamasharp-unity"
+  },
+  "keywords": [
+    "unity",
+    "llamasharp-unity"
+  ],
+  "license": "MIT"
+}
